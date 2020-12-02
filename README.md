@@ -1,3 +1,7 @@
-# An empty repository which contains boilerplate code for front end developers
+# Website explaination
 
-## I have personally customized the boilerplate to suit my taste and how i like to work
+------
+
+## This web page shows the usage of Ajax to get dynamic data from the web server without page refresh
+
+> We first fetch a simple text based on the topic how to write teaching blogs on the click of the first button on the page named `write blog`
